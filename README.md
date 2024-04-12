@@ -61,8 +61,8 @@ averias nos LEDs.
 - Tanto o valor de luminosidade como a intensidade de luz medida em % podem ser visualizadas no Serial Monitor.
 
 
-* REPRODUÇÃO DO PROJETO NO SIMULADOR 
-O projeto pode ser executado no simulador feito na plataforma Tinkercad através [deste link](https://www.tinkercad.com/things/jGqY1vAvV0G-copy-of-fotorresistor/editel?sharecode=N2K8ZdWc3xysvRHpDFuyUqw6gR07NM1Mtl-ZUBuellU)
+REPRODUÇÃO DO PROJETO NO SIMULADOR 
+<br> O projeto pode ser executado no simulador feito na plataforma Tinkercad através [deste link](https://www.tinkercad.com/things/jGqY1vAvV0G-copy-of-fotorresistor/editel?sharecode=N2K8ZdWc3xysvRHpDFuyUqw6gR07NM1Mtl-ZUBuellU)
 
 
 
