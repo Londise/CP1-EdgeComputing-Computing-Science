@@ -2,10 +2,10 @@
 Este projeto consiste em um sistema que utiliza um sensor de luz (LDR) para monitorar os níveis de luminosidade em um ambiente, garantindo que os vinhos em uma vinícola estejam armazenados em condições ideais de iluminação. O sistema utiliza LEDs e um buzzer para indicar se a luminosidade está adequada, em alerta ou em condição crítica.
 
 Componentes Utilizados
-Sensor de Luz (LDR)
-LEDs (verde, amarelo, vermelho)
-Buzzer
-Arduino UNO R3
+- Sensor de Luz (LDR)
+- LEDs (verde, amarelo, vermelho)
+- Buzzer
+- Arduino UNO R3
 
 Resistências utilizadas nos resistores.
 LDR - Resistência de 10 KiloOhms
