@@ -64,12 +64,9 @@ averias nos LEDs.
 REPRODUÇÃO DO PROJETO NO SIMULADOR 
 <br> O projeto pode ser executado no simulador feito na plataforma Tinkercad através [deste link](https://www.tinkercad.com/things/jGqY1vAvV0G-copy-of-fotorresistor/editel?sharecode=N2K8ZdWc3xysvRHpDFuyUqw6gR07NM1Mtl-ZUBuellU)
 
-Sinta-se livre para baixar o projeto e testá-lo por sua conta, Happy Coding!
-
-
-
-
 Ao clicar em "Iniciar simulação" na parte superior direita, o projeto irá iniciar com o LED Verde ligado inicialmente, ao clicar no LDR aparecerá uma barra de luminosidade onde o usuario poderá mudar os valores de luminosidade e observar o comportamento correspondente dos LEDs. 
+
+<p>Sinta-se livre para baixar o projeto e testá-lo por sua conta, Happy Coding!</p>
 
 
 
