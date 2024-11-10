@@ -64,6 +64,8 @@ averias nos LEDs.
 REPRODUÇÃO DO PROJETO NO SIMULADOR 
 <br> O projeto pode ser executado no simulador feito na plataforma Tinkercad através [deste link](https://www.tinkercad.com/things/jGqY1vAvV0G-copy-of-fotorresistor/editel?sharecode=N2K8ZdWc3xysvRHpDFuyUqw6gR07NM1Mtl-ZUBuellU)
 
+Sinta-se livre para baixar o projeto e testá-lo por sua conta, Happy Coding!
+
 
 
 
